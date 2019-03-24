@@ -139,9 +139,9 @@ Ferretería, materiales para construcción Sumano, Vega de Alatorre, Ver.</p>
 </div>
 <div class="pagination">
   <a href="#">&laquo;</a>
-  <a href="index.html" >1</a>
-  <a href="vistacss.html">2</a>
-  <a href="curr.html" class="active">3</a>
+  <a href="index.php" >1</a>
+  <a href="vistacss.php">2</a>
+  <a href="curr.php" class="active">3</a>
   <a href="#">&raquo;</a>
 </div>
 <footer class="w3-container w3-teal w3-center w3-margin-top">
