@@ -90,9 +90,9 @@ Lenguajes de programación: PHP nivel medio, Java nivel medio, R nivel básico, 
 </div>
 <div class="pagination">
   <a href="#">&laquo;</a>
-  <a href="index.html" >1</a>
-  <a href="vistacss.html" class="active">2</a>
-  <a href="curr.html">3</a>
+  <a href="index.php" >1</a>
+  <a href="vistacss.php" class="active">2</a>
+  <a href="curr.php">3</a>
   <a href="#">&raquo;</a>
 </div>
 </html>
