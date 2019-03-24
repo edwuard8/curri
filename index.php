@@ -115,9 +115,9 @@ Lenguajes de programación: PHP nivel medio, Java nivel medio, R nivel básico, 
 </p>
 <div class="pagination">
   <a href="#">&laquo;</a>
-  <a href="index.html" class="active">1</a>
-  <a href="vistacss.html">2</a>
-  <a href="curr.html">3</a>
+  <a href="index.php" class="active">1</a>
+  <a href="vistacss.php">2</a>
+  <a href="curr.php">3</a>
   <a href="#">&raquo;</a>
 </div>
 </body>
